@@ -1,0 +1,10 @@
+*.DS_Store
+._*
+.Trashes
+Thumbs.db
+Desktop.ini
+
+/node_modules
+/.vscode
+npm-debug.log
+yarn-error.log
